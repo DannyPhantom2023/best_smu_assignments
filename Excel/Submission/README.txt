@@ -1,0 +1,1 @@
+For this excel assignment we were given a dataset of crowdfundings, it was our goal to clean up the data, as well analyze and discover market trends. We were tasked with Column Creation, Pivot Tables, Line Graphs, Written Report, and a analysis throughout the worksheet to discuss trends.
